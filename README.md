@@ -1,7 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![Finance](https://img.shields.io/badge/Domain-Behavioral%20Finance-green)
 ![Status](https://img.shields.io/badge/Status-Complete-success)
-![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # Behavioral Finance + Portfolio Construction Engine
 
 > *"The best portfolio isn't the one with the highest Sharpe ratio. It's the one you'll actually hold through a market crash."*
