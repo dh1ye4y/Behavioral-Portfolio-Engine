@@ -172,4 +172,4 @@ Where A (risk aversion coefficient) is derived from your behavioral profile rath
 
 ## Author
 Dhyey Desai-
-Built as part of a research internship project exploring behavioral finance applications in wealth management.
+Built as a course based project exploring behavioral finance applications in wealth management.
